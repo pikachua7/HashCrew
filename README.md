@@ -51,8 +51,7 @@ NOTE : company is the one who wants to hire the student for job.
 * Install Firebase
 * Install Material UI
 * Install Metamask Extension in Web browser
-* Install web*storage
-* Install Polygon
+* Install web3.storage
 * Install crypto
 * Install crypto-browserify
 
